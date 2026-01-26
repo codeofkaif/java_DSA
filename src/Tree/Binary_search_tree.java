@@ -22,7 +22,6 @@ public class Binary_search_tree {
 
     // insert elements
     public void populate(Scanner scanner) {
-        System.out.println("Enter the root Node:");
         int value = scanner.nextInt();
         root = new Node(value);
         populate(scanner, root);

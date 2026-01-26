@@ -1,3 +1,5 @@
+package Tree;
+
 public class Insertion {
     public static class Node{
         private int value;
@@ -16,9 +18,7 @@ public class Insertion {
     }
     private Node root ;
 
-    public Insertion(){
 
-    }
     public int height(Node node){
         if(node==null) return -1;
         return node.height;

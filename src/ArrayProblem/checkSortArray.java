@@ -1,5 +1,5 @@
 package ArrayProblem;
-import java.util.*;
+
 public class checkSortArray {
     public static void main(String[] args) {
         TakeInput obj=new TakeInput();

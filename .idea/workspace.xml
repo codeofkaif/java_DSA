@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0024f6c-f60e-4fa1-9ee3-9ad9d763f7f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/maxValueInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/printAllLevelofBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/treeTrevarse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayProblem/checkSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayProblem/checkSortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Binary_search_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Binary_search_tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/quickSort.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33SAuKsRpBnc09P8F18howW1ALd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Binary_search_tree.executor": "Run",
+    "Application.maxValueInTree.executor": "Run",
+    "Application.printAllLevelofBFS.executor": "Run",
+    "Application.treeTrevarse.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Rebasing master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kaifkhan/college/Documents copy/tech/Programmin/java/java_DSA"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0024f6c-f60e-4fa1-9ee3-9ad9d763f7f9" name="Changes" comment="" />
+      <created>1759300320361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759300320361</updated>
+    </task>
+    <servers />
+  </component>
+</project>

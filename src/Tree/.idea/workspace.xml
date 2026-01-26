@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="997a247c-41a4-4c68-83e7-20ccc919163b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/HashMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/src/basicOfHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashMap/src/frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary_search_tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeTrevarse/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeTrevarse/treeTrevarse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxValueInTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printAllLevelofBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/Fabonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/IterateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/nNatural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sort/marge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sort/marge_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subArray/longestSubArrayWithSumK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainingCode/src/firstCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainingCode/src/secondDayOfTraining/DemoExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainingCode/trainingCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayProblem/LeftrotateTheArrayByOnePlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayProblem/LeftrotateTheArrayByOnePlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayProblem/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayProblem/RemoveDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayProblem/TakeInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayProblem/TakeInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayProblem/checkSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayProblem/checkSortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayProblem/rightRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayProblem/rightRotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayProblem/seconSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayProblem/seconSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayProblem/secondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayProblem/secondLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../recursion/print1toN.java" beforeDir="false" afterPath="$PROJECT_DIR$/../recursion/print1toN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort/quickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sort/quickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sort/quickSortMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sort/quickSortMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;codeofkaif&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/codeofkaif/java_DSA.git&quot;,
+    &quot;accountId&quot;: &quot;393d4dc1-a414-4289-a658-77dd3f193e32&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Tree/treeTrevarse.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2onAeYZ3qU6gfsJPJRcbt2xJIbh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Binary_search_tree.executor": "Run",
+    "Application.treeTrevarse.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kaifkhan/college/Documents copy/tech/Programmin/java/java_DSA/src/Tree"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="997a247c-41a4-4c68-83e7-20ccc919163b" name="Changes" comment="" />
+      <created>1731495062716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731495062716</updated>
+    </task>
+    <servers />
+  </component>
+</project>
