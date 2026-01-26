@@ -12,23 +12,18 @@ public class quickSort {
             int piovtIndex = partition(array, low, high);
             new quickSort(array, low, piovtIndex - 1);
             new quickSort(array, piovtIndex + 1, high);
-
         }
-
-
     }
     private static int partition(int[] array,int low,int high){
         int pivot=array[high];
         int i=low;
         for (int j = low; j <high ; j++) {
             if (array[j]<pivot) {
-
                 int temp = array[i];
                 array[i] = array[j];
                 array[j] = temp;
                 i++;
             }
-
         }
         int temp=array[i];
         array[i]=array[high];
