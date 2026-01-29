@@ -1,10 +1,14 @@
 package Tree;
 
-public class Node{
+public class Node {
     int data;
     Node Left;
     Node right;
-    Node() {}
-    Node(int data){this.data = data;}
 
+    Node() {
+    }
+
+    Node(int data) {
+        this.data = data;
+    }
 }

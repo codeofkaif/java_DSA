@@ -1,3 +1,5 @@
+package Tree;
+
 public class BST {
     public static class Node {
         private int value;
