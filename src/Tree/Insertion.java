@@ -2,10 +2,11 @@ package Tree;
 
 public class Insertion {
     public static class Node{
+        public Node Left;
         private int value;
         private  int height;
         private Node left;
-        private Node right;
+        Node right;
         public Node(int value){
             this.value=value;
 
@@ -16,7 +17,7 @@ public class Insertion {
         }
 
     }
-    private Node root ;
+    public Node root ;
 
 
     public int height(Node node){

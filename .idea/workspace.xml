@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0024f6c-f60e-4fa1-9ee3-9ad9d763f7f9" name="Changes" comment="traversal">
+      <change afterPath="$PROJECT_DIR$/src/Tree/diameter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Backtracking/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backtracking/Queen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/printAllLevelofBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/printAllLevelofBFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Insertion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,25 +48,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Binary_search_tree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Queen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.maxValueInTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printAllLevelofBFS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.treeTrevarse.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kaifkhan/college/Documents copy/tech/Programmin/java/java_DSA&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Binary_search_tree.executor": "Run",
+    "Application.Queen.executor": "Run",
+    "Application.diameter.executor": "Run",
+    "Application.maxValueInTree.executor": "Run",
+    "Application.printAllLevelofBFS.executor": "Run",
+    "Application.treeTrevarse.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kaifkhan/college/Documents copy/tech/Programmin/java/java_DSA",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="maxValueInTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.maxValueInTree" />
