@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class printAllLevelofBFS {
-    static int height(Node temp){
+    public static int height(Node temp){
         if(temp == null ||(temp.Left==null && temp.right == null)) return 0;
         return 1+height(temp.Left)+height(temp.right);
     }

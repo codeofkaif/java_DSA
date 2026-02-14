@@ -29,7 +29,7 @@ public class treeTrevarse {
     }
 
 
-   static Node insert(Node root , int value){
+   public static Node insert(Node root , int value){
        if (root == null) {
            return new Node(value);
        }
@@ -46,15 +46,15 @@ public class treeTrevarse {
    }
 
    // Level Traversal
-   static void levelOrder(Node root , int n){
-        if(root == null) return;
-        if(n==0) {
-            System.out.print(root.data + "->");
-            return;
-        }
-        levelOrder(root.Left, n-1);
-        levelOrder(root.right, n-1);
-   }
+//   static void levelOrder(Node root , int n){
+//        if(root == null) return;
+//        if(n==0) {
+//            System.out.print(root.data + "->");
+//            return;
+//        }
+//        levelOrder(root.Left, n-1);
+//        levelOrder(root.right, n-1);
+   //}
    // level order traversal (BFS)
     static void bfs(Node root){
         Queue<Node> q = new LinkedList<>();
@@ -107,10 +107,10 @@ public class treeTrevarse {
 
         int height =Height(root);
         System.out.println(height);
-        for(int i = 0 ; i< height; i++){
-            levelOrder(root , i);
-
-        }
+//        for(int i = 0 ; i< height; i++){
+//            levelOrder(root , i);
+//
+//        }
 
     }
 

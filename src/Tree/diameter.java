@@ -5,7 +5,7 @@ import javax.crypto.spec.PSource;
 import static javax.swing.Spring.height;
 
 public class diameter {
-    private static Insertion.Node root;
+
 
     public static void main(String[] args) {
         Node head =null;
@@ -15,21 +15,11 @@ public class diameter {
 
             }
 
-            display();
+
             System.out.println(height(head));
         System.out.println(Diameter(head));
     }
-    public static void display(){
 
-        display( root, "root node");
-    }
-    private static void display(Insertion.Node node, String details){
-        if(node == null) return;
-        System.out.println(node.getValue());
-        display(node.Left,"left child of"+node.getValue());
-        display(node.right,"right child of"+node.getValue());
-
-    }
 
     static Node insert(Node head, int data){
         if(head == null) return new Node(data);

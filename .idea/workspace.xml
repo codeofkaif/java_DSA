@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0024f6c-f60e-4fa1-9ee3-9ad9d763f7f9" name="Changes" comment="traversal">
-      <change afterPath="$PROJECT_DIR$/src/Tree/diameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/LowestCommanAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ZigZagTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/binaryTreePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingCode/src/Revision/arrayProblem/secondLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tree/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/TreeTrevarse/treeTrevarse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/TreeTrevarse/treeTrevarse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/diameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/diameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/printAllLevelofBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/printAllLevelofBFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +58,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Binary_search_tree.executor": "Run",
+    "Application.LowestCommanAncestor.executor": "Run",
     "Application.Queen.executor": "Run",
+    "Application.ZigZagTraversal.executor": "Run",
+    "Application.binaryTreePath.executor": "Run",
     "Application.diameter.executor": "Run",
     "Application.maxValueInTree.executor": "Run",
     "Application.printAllLevelofBFS.executor": "Run",
+    "Application.secondLargest.executor": "Run",
     "Application.treeTrevarse.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -63,11 +74,16 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/kaifkhan/college/Documents copy/tech/Programmin/java/java_DSA",
+    "last_opened_file_path": "/Users/kaifkhan/college/Documents copy/tech/Programmin/java/java_DSA/src/Tree",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Tree" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="maxValueInTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tree.maxValueInTree" />
@@ -97,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.treeTrevarse" />
         <item itemvalue="Application.maxValueInTree" />
+        <item itemvalue="Application.treeTrevarse" />
       </list>
     </recent_temporary>
   </component>
